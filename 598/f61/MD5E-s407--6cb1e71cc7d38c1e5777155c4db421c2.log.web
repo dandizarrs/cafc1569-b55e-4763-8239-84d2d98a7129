@@ -1,0 +1,12 @@
+1790704889s 1 https://dandiarchive.s3.amazonaws.com/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/processing/VISp_4/dff_timeseries/dff_timeseries/rois/0?versionId=TaF62ZroFRk2MSATZbNKrXCYf3kWwmmV
+1790704889s 1 https://api.dandiarchive.org/api/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/files?prefix=processing%2FVISp_4%2Fdff_timeseries%2Fdff_timeseries%2Frois%2F0&download=true
+1790704890s 1 https://dandiarchive.s3.amazonaws.com/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/processing/VISp_4/event_timeseries/rois/0?versionId=yLJ3.GUN7Kg755jiNIq8zYzt93yseZer
+1790704890s 1 https://api.dandiarchive.org/api/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/files?prefix=processing%2FVISp_4%2Fevent_timeseries%2Frois%2F0&download=true
+1790704890s 1 https://dandiarchive.s3.amazonaws.com/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/processing/VISp_4/image_segmentation/roi_table/id/0?versionId=sS76q0OobWw5ZpxsBmNDpnNN7h6p1XMi
+1790704890s 1 https://api.dandiarchive.org/api/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/files?prefix=processing%2FVISp_4%2Fimage_segmentation%2Froi_table%2Fid%2F0&download=true
+1790704895s 1 https://dandiarchive.s3.amazonaws.com/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/processing/VISp_4/neuropil_corrected_timeseries/rois/0?versionId=mPT6lTfKmB.FfUjsafrTrqmDvdJrnXU7
+1790704895s 1 https://api.dandiarchive.org/api/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/files?prefix=processing%2FVISp_4%2Fneuropil_corrected_timeseries%2Frois%2F0&download=true
+1790704896s 1 https://dandiarchive.s3.amazonaws.com/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/processing/VISp_4/neuropil_fluorescence_timeseries/rois/0?versionId=H4pG55qF8fGUSzTVD_ytikiQFn51Xx8p
+1790704896s 1 https://api.dandiarchive.org/api/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/files?prefix=processing%2FVISp_4%2Fneuropil_fluorescence_timeseries%2Frois%2F0&download=true
+1790704897s 1 https://dandiarchive.s3.amazonaws.com/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/processing/VISp_4/raw_timeseries/ROI_fluorescence_timeseries/rois/0?versionId=JHmB_.0xbOaBJ5fDMt_XYhdRrOURy3wh
+1790704897s 1 https://api.dandiarchive.org/api/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/files?prefix=processing%2FVISp_4%2Fraw_timeseries%2FROI_fluorescence_timeseries%2Frois%2F0&download=true

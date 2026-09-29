@@ -1,0 +1,6 @@
+1790704920s 1 https://dandiarchive.s3.amazonaws.com/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/processing/behavior/corneal_reflection_tracking/cr_average_confidence/data/.zattrs?versionId=GRNH5UGayuALkjbtx0LCElCNS7Ia4iTX
+1790704920s 1 https://api.dandiarchive.org/api/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/files?prefix=processing%2Fbehavior%2Fcorneal_reflection_tracking%2Fcr_average_confidence%2Fdata%2F.zattrs&download=true
+1790704921s 1 https://dandiarchive.s3.amazonaws.com/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/processing/behavior/eye_tracking/eye_average_confidence/data/.zattrs?versionId=TzM9YSQSrGvhBpTc_o4KyFQFg_2tDxHB
+1790704921s 1 https://api.dandiarchive.org/api/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/files?prefix=processing%2Fbehavior%2Feye_tracking%2Feye_average_confidence%2Fdata%2F.zattrs&download=true
+1790704929s 1 https://dandiarchive.s3.amazonaws.com/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/processing/behavior/pupil_tracking/pupil_average_confidence/data/.zattrs?versionId=HOGFA2VuUZC4ZK32CNHiyNn_u9CFTyeb
+1790704929s 1 https://api.dandiarchive.org/api/zarr/cafc1569-b55e-4763-8239-84d2d98a7129/files?prefix=processing%2Fbehavior%2Fpupil_tracking%2Fpupil_average_confidence%2Fdata%2F.zattrs&download=true
